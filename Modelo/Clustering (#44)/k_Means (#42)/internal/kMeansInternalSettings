@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
+<entry key="dimensions" type="xint" value="50"/>
+<entry key="ignoredColumns" type="xint" value="34"/>
+<config key="clusterCoverage">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xint" value="14879"/>
+<entry key="1" type="xint" value="16628"/>
+<entry key="2" type="xint" value="27893"/>
+</config>
+<config key="kMeansCluster0">
+<entry key="array-size" type="xint" value="16"/>
+<entry key="0" type="xdouble" value="0.5008588144906756"/>
+<entry key="1" type="xdouble" value="0.004112373143356408"/>
+<entry key="2" type="xdouble" value="0.04919445766947481"/>
+<entry key="3" type="xdouble" value="0.36388507851756813"/>
+<entry key="4" type="xdouble" value="0.5931983451188803"/>
+<entry key="5" type="xdouble" value="0.0"/>
+<entry key="6" type="xdouble" value="0.5692937522098234"/>
+<entry key="7" type="xdouble" value="0.45032428254587004"/>
+<entry key="8" type="xdouble" value="0.0049598105036744"/>
+<entry key="9" type="xdouble" value="0.0"/>
+<entry key="10" type="xdouble" value="0.5579672364732545"/>
+<entry key="11" type="xdouble" value="0.23702972602824932"/>
+<entry key="12" type="xdouble" value="0.20513712139676507"/>
+<entry key="13" type="xdouble" value="0.6724191420385487"/>
+<entry key="14" type="xdouble" value="0.21028008020810451"/>
+<entry key="15" type="xdouble" value="0.11380591922791458"/>
+</config>
+<config key="kMeansCluster1">
+<entry key="array-size" type="xint" value="16"/>
+<entry key="0" type="xdouble" value="0.4979031534176708"/>
+<entry key="1" type="xdouble" value="0.03185253788789981"/>
+<entry key="2" type="xdouble" value="0.21635553224738005"/>
+<entry key="3" type="xdouble" value="0.534209322665329"/>
+<entry key="4" type="xdouble" value="0.4814544440327515"/>
+<entry key="5" type="xdouble" value="0.0"/>
+<entry key="6" type="xdouble" value="0.47357521624078"/>
+<entry key="7" type="xdouble" value="0.40190491941303824"/>
+<entry key="8" type="xdouble" value="0.1692499783855931"/>
+<entry key="9" type="xdouble" value="0.6426323078483952"/>
+<entry key="10" type="xdouble" value="0.06422056979249913"/>
+<entry key="11" type="xdouble" value="0.03618609324294761"/>
+<entry key="12" type="xdouble" value="0.8996102107995875"/>
+<entry key="13" type="xdouble" value="0.09935846359193987"/>
+<entry key="14" type="xdouble" value="0.8671279192308405"/>
+<entry key="15" type="xdouble" value="0.029965385279209434"/>
+</config>
+<config key="kMeansCluster2">
+<entry key="array-size" type="xint" value="16"/>
+<entry key="0" type="xdouble" value="0.5005518663394537"/>
+<entry key="1" type="xdouble" value="0.12166009393037565"/>
+<entry key="2" type="xdouble" value="0.40941190348030704"/>
+<entry key="3" type="xdouble" value="0.5857557799607919"/>
+<entry key="4" type="xdouble" value="0.48303730466604844"/>
+<entry key="5" type="xdouble" value="0.0"/>
+<entry key="6" type="xdouble" value="0.36095233493214296"/>
+<entry key="7" type="xdouble" value="0.3764654214319005"/>
+<entry key="8" type="xdouble" value="0.2487582735861886"/>
+<entry key="9" type="xdouble" value="0.9928734476752242"/>
+<entry key="10" type="xdouble" value="0.7574419309910203"/>
+<entry key="11" type="xdouble" value="0.16004983078879337"/>
+<entry key="12" type="xdouble" value="0.08266408478322908"/>
+<entry key="13" type="xdouble" value="0.7335676284821554"/>
+<entry key="14" type="xdouble" value="0.1857357081795448"/>
+<entry key="15" type="xdouble" value="0.07711153445292067"/>
+</config>
+<config key="FeatureNames">
+<entry key="array-size" type="xint" value="50"/>
+<entry key="0" type="xstring" value="Identificador"/>
+<entry key="1" type="xstring" value="Cantidad_tsh"/>
+<entry key="2" type="xstring" value="GPS"/>
+<entry key="3" type="xstring" value="Longitud"/>
+<entry key="4" type="xstring" value="Latitud"/>
+<entry key="5" type="xstring" value="Numero privado"/>
+<entry key="6" type="xstring" value="Codigo_Region"/>
+<entry key="7" type="xstring" value="Codigo_Distrito"/>
+<entry key="8" type="xstring" value="Poblacion"/>
+<entry key="9" type="xstring" value="Año_Construcion"/>
+<entry key="10" type="xstring" value="P (Estado_Grupo=functional)"/>
+<entry key="11" type="xstring" value="P (Estado_Grupo=functional needs repair)"/>
+<entry key="12" type="xstring" value="P (Estado_Grupo=non functional)"/>
+<entry key="13" type="xstring" value="P (Estado_Grupo=functional) (#1)"/>
+<entry key="14" type="xstring" value="P (Estado_Grupo=non functional) (#1)"/>
+<entry key="15" type="xstring" value="P (Estado_Grupo=functional needs repair) (#1)"/>
+<entry key="16" type="xstring" isnull="true" value=""/>
+<entry key="17" type="xstring" isnull="true" value=""/>
+<entry key="18" type="xstring" isnull="true" value=""/>
+<entry key="19" type="xstring" isnull="true" value=""/>
+<entry key="20" type="xstring" isnull="true" value=""/>
+<entry key="21" type="xstring" isnull="true" value=""/>
+<entry key="22" type="xstring" isnull="true" value=""/>
+<entry key="23" type="xstring" isnull="true" value=""/>
+<entry key="24" type="xstring" isnull="true" value=""/>
+<entry key="25" type="xstring" isnull="true" value=""/>
+<entry key="26" type="xstring" isnull="true" value=""/>
+<entry key="27" type="xstring" isnull="true" value=""/>
+<entry key="28" type="xstring" isnull="true" value=""/>
+<entry key="29" type="xstring" isnull="true" value=""/>
+<entry key="30" type="xstring" isnull="true" value=""/>
+<entry key="31" type="xstring" isnull="true" value=""/>
+<entry key="32" type="xstring" isnull="true" value=""/>
+<entry key="33" type="xstring" isnull="true" value=""/>
+<entry key="34" type="xstring" isnull="true" value=""/>
+<entry key="35" type="xstring" isnull="true" value=""/>
+<entry key="36" type="xstring" isnull="true" value=""/>
+<entry key="37" type="xstring" isnull="true" value=""/>
+<entry key="38" type="xstring" isnull="true" value=""/>
+<entry key="39" type="xstring" isnull="true" value=""/>
+<entry key="40" type="xstring" isnull="true" value=""/>
+<entry key="41" type="xstring" isnull="true" value=""/>
+<entry key="42" type="xstring" isnull="true" value=""/>
+<entry key="43" type="xstring" isnull="true" value=""/>
+<entry key="44" type="xstring" isnull="true" value=""/>
+<entry key="45" type="xstring" isnull="true" value=""/>
+<entry key="46" type="xstring" isnull="true" value=""/>
+<entry key="47" type="xstring" isnull="true" value=""/>
+<entry key="48" type="xstring" isnull="true" value=""/>
+<entry key="49" type="xstring" isnull="true" value=""/>
+</config>
+</config>

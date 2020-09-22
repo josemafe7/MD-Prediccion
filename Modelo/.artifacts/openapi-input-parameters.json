@@ -1,0 +1,12 @@
+
+{
+    "type":"object",
+    "properties":{
+        "int-input-40":{
+            "type":"integer",
+            "default":5,
+            "description":"Enter Description",
+            "example":5
+        }
+    }
+}
